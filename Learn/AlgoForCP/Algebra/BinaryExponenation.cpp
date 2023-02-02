@@ -17,3 +17,7 @@ ll bxp(ll x, ll y)
     }
     return ans;
 }
+int main()
+{
+    cout<<bxp(2, 5);
+}
