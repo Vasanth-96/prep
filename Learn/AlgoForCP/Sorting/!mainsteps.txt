@@ -1,0 +1,6 @@
+selection sort = run loop from 0->n and to i->n then at each outerloop check for the min value of the rightside of the cuurent i then swap with the i by storing it in the temporary variable.
+bubblesort = just swap them in PAIRS like run from 0->n then from 0->n-i-1 since at each outerloop iteration one bigger element is stored at last , as we saw in selection sort first min element is stored.
+insertion sort= it is now something diffrent as it runs from 0->n but inner while conditon is moving reverse to check the correct element that is checking min.
+mergesort=
+quicksort=
+countingsort=first find the max element and get an temp array of mx+1 size then after do hasing in that store count i mean, then do prefix sum in same array, now this is main take new ans array and run from 0->n check for the count of that arr[i] in temp array then ans[temp[arr[i]]-1] should be done to store the value.
