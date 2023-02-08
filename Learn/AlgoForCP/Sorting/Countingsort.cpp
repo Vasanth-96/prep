@@ -27,7 +27,6 @@ void countingsort(int arr[], int n)
     int ans[n];
     for(int i=0;i<n;i++)
     {
-        int ind=arr[i];
         int temp=a[arr[i]]-1;
         ans[temp]=arr[i];
     }
