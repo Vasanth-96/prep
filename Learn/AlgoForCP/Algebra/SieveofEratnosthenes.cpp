@@ -15,7 +15,7 @@ bool isPr(int n)
         {
             for(int j=i*i;j<=n;j+=i)
             {
-                isPrime[i]=false;
+                isPrime[j]=false;
             }
         }
     }
@@ -23,5 +23,5 @@ bool isPr(int n)
 }
 int main()
 {
-    cout<<isPr(11);
+    cout<<isPr(12);
 }
