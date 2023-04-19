@@ -5,11 +5,11 @@
 05. Transpose of Matrix
 06. Rotate by 90 degree
 07. Determinant of a Matrix
-08. Boundary traversal of matrix
+08. Boundary traversal of matrix//
 09. Exchange matrix columns
-10. Spirally traversing a matrix
+10. Spirally traversing a matrix//
 11. Reversing the columns of a Matrix
 12. Interchanging the rows of a Matrix
 13. Search in a row-column sorted Matrix
 14. Boolean Matrix
-15. Make Matrix Beautiful
+15. Make Matrix Beautiful//
